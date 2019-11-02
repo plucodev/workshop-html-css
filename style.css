@@ -1,0 +1,40 @@
+
+#post{
+  width: 500px;
+  height: 600px;
+  background: white;
+}
+body{
+  background: black;
+}
+.header{
+  height: 10%;
+  background: green;
+}
+.image{
+  height: 60%;
+  background: white;
+}
+.footer{
+  height: 30%;
+  background: red;
+}
+.header-logo {
+    float: left;
+    margin-right: 26px;
+}
+.header-title{
+  float:left;
+}
+.header-icon{
+  float:right;
+}
+
+.fa-heartbeat {
+    float: right;
+    color: white;
+}
+p {
+    color: white;
+    margin: 0;
+}
